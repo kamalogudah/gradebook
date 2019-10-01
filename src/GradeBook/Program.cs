@@ -6,14 +6,14 @@ namespace GradeBook
   {
     static void Main(string[] args)
     {
-      double[] numbers = new double[3];
-      numbers[0] = 12.8;
-      numbers[1] = 7.8;
-      numbers[2] = 69.8;
+      var numbers = new[] { 12.8, 7.8, 69.8 };
 
-      var result = numbers[0];
-      result = result + numbers[1];
-      result = result + numbers[2];
+
+      var result = 0.0;
+      foreach (double number in numbers)
+      {
+        result += number;
+      }
       Console.WriteLine(result);
 
 
