@@ -6,10 +6,16 @@ namespace GradeBook
   {
     static void Main(string[] args)
     {
-      double x = 23.5;
-      // var x = 23.5;
-      double y = 19.8;
-      double sum = x + y;
+      double[] numbers = new double[3];
+      numbers[0] = 12.8;
+      numbers[1] = 7.8;
+      numbers[2] = 69.8;
+
+      var result = numbers[0];
+      result = result + numbers[1];
+      result = result + numbers[2];
+      Console.WriteLine(result);
+
 
       if (args.Length > 0)
       {
@@ -17,7 +23,7 @@ namespace GradeBook
       }
       else
       {
-        Console.WriteLine($"Hello World! and the sum is , { sum }");
+        Console.WriteLine("Hello World!");
       }
     }
   }
