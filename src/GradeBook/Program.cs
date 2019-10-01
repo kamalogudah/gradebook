@@ -6,15 +6,19 @@ namespace GradeBook
   {
     static void Main(string[] args)
     {
-      if(args.Length > 0)
+      double x = 23.5;
+      // var x = 23.5;
+      double y = 19.8;
+      double sum = x + y;
+
+      if (args.Length > 0)
       {
-         Console.WriteLine($"Hello, {args[0]}!");
+        Console.WriteLine($"Hello, {args[0]}!");
       }
-      else 
+      else
       {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine($"Hello World! and the sum is , { sum }");
       }
-      
     }
   }
 }
