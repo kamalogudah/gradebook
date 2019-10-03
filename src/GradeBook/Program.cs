@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -8,9 +9,11 @@ namespace GradeBook
     {
       var numbers = new[] { 12.8, 7.8, 69.8 };
 
-
+      // List<double> grades = new List<double>();
+      var grades = new List<double>() { 12.8, 7.8, 69.8 };
+      grades.Add(55.5);
       var result = 0.0;
-      foreach (double number in numbers)
+      foreach (double number in grades)
       {
         result += number;
       }
