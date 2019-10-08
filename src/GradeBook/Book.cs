@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -6,8 +7,9 @@ namespace GradeBook
   {
     public void AddGrade(double grade)
     {
-
+      grades.Add(grade);
     }
+    List<double> grades;
 
   }
 }
