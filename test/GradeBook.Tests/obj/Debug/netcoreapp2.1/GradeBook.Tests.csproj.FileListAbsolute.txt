@@ -1,0 +1,14 @@
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.deps.json
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.runtimeconfig.json
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.runtimeconfig.dev.json
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.dll
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.pdb
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.csprojAssemblyReference.cache
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.csproj.CoreCompileInputs.cache
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.AssemblyInfoInputs.cache
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.AssemblyInfo.cs
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.dll
+/Users/ogudah/Sites/C#/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.pdb
