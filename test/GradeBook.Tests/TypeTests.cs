@@ -6,6 +6,24 @@ namespace GradeBook.Tests
   public class TypeTests
   {
     [Fact]
+    public void Test1()
+    {
+      // arrange
+      var book1 = GetBook("Book 1");
+     SetName(book1, "New Name");
+
+      Assert.Equal("New Name", book1.Name);
+      
+
+    }
+
+    private void SetName(Book book, string name)
+    {
+      book.Name = name;
+
+    }
+
+    [Fact]
     public void GetBookReturnsDifferentObjects()
     {
       // arrange
